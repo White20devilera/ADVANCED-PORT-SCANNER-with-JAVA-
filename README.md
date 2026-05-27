@@ -35,4 +35,4 @@ The application utilizes a fully customized cross-platform UI package engineered
 ### Compiling and Running
 1. Clone this repository or download the source code:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/advanced-port-scanner.git](https://github.com/YOUR_USERNAME/advanced-port-scanner.git)
+   git clone https://github.com/White20devilera/ADVANCED-PORT-SCANNER-with-JAVA-.git
